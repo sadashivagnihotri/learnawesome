@@ -14,5 +14,6 @@ public class JavaExample
         scan.close();
         sinterest = (p * r * t) / 100;
         System.out.print("Simple Interest Calculated: " +sinterest);
+        System.out.print("Compound Interest Measured : " +sinterest);
     }
 }
