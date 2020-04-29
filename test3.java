@@ -13,6 +13,6 @@ public class JavaExample
         t = scan.nextFloat();
         scan.close();
         sinterest = (p * r * t) / 100;
-        System.out.print("Simple Interest is: " +sinterest);
+        System.out.print("Compound Interest Calculated : " +sinterest);
     }
 }
